@@ -1,16 +1,18 @@
-### Hi there 👋
+# Eric Silva 👨‍💻
 
-<!--
-**eric218110/eric218110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/monteiro-alexandre)](https://github.com/eric218110)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-monteiro-9a03371a5/)](https://www.linkedin.com/in/eric-silva-mendes-8a6716143/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandre.monteiro.bec@gmail.com)](mailto:ericsilvaccp@gmail.com)
 
-Here are some ideas to get you started:
+## Hi there 👋  
+###  Welcome to my profile 😉
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is ✨ Eric Silva ✨ and I'm Full stack developer. Enthusiastic about new technologies in software development, Design Patterns, automated tests. Always looking for new knowledge, with main focus on studies in javaScript and NodeJs technologies. Student of information systems, always seeking to expand my knowledge.
+
+> - 🖥 I’m currently working at Atacadão S/A as an Information Assistant, developing technologies in PHP, MySQL, HTML, CSS, JS and Shell scripts.
+>
+> - 📚 I’m currently learning ReactJs, React Native, NextJs and GatsbyJS.
+>
+> - ❤️ I love JavasSript and TypeScript.
+>
+> - 🎓 Information systems student

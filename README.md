@@ -13,7 +13,7 @@ My name is ✨ Eric Silva ✨ and I'm Full stack developer. Enthusiastic about n
 ---
 <div>
  <a href="https://github.com/eric218110">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eric218110&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=eric218110&theme=onedark&hide_border=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric218110&layout=compact&langs_count=7&theme=onedark&hide_border=true"/>
 </div>
 
